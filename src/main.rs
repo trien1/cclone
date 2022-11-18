@@ -4,7 +4,7 @@ static A: std::alloc::System = std::alloc::System;
 
 
 fn main() {
-    let file_path = std::env::args_os()
+    let file_path = std::env::args()
         .nth(1)
         .expect("could not be able to find the file");
     
