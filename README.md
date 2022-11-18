@@ -8,7 +8,7 @@ a cat clone written in rust(blazingly fast🚀)
 ```
 git clone https://github.com/trien1/cclone.git
 ```
-cd into the directory
+2.cd into the directory
 ```
 cd cclone/
 ```
