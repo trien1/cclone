@@ -1,5 +1,5 @@
 # cclone
-##a cat clone written in rust(blazingly fast🚀)
+a cat clone written in rust(blazingly fast🚀)
 
 
 # installation instructions
