@@ -22,5 +22,5 @@ chmod +x install.sh
 ```
 or you can run this command
 ```
-sudo cp target/release/cclone /usr/bin/
+sudo cp /cclone /usr/bin/
 ```
